@@ -1,6 +1,8 @@
 # TextGeneration
 
-#### Description
+#### [Playable Link](https://mperina11.github.io/TextGeneration/)
+
+## Description
 Text generator using context-free grammar
 - modified from https://github.com/julinas/p1-text-generation-starter
 
